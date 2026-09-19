@@ -1,5 +1,8 @@
 # Customer Churn Prediction
 
+## Github Repo: https://github.com/DevAnuragGarg/customer_churn_project
+
+
 ## 1. Project Overview
 
 This project implements an end-to-end Machine Learning solution for predicting customer churn in a telecommunications business.
